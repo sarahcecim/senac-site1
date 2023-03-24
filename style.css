@@ -1,6 +1,11 @@
+@font-face {
+  font-family: Tunga;
+  src: url('fontes/FontsFree-Net-Tungsten-Bold.ttf');
+}
+
 /* estilo para o corpo da página */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Tunga, sans-serif;
     background-color: #f2f2f2;
     margin: 0;
   }
